@@ -8,7 +8,7 @@
 
 1. 2021/03/31: OT
 
-2. 2021/04/08: Chapter 2 ~ 4 수업
+2. 2021/04/08: Chapter 2 ~ 4 조교님 강의
 
 3. 2021/04/30: [Chapter 2 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_2)
 
