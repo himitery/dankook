@@ -1,4 +1,9 @@
-from os import confstr
+"""
+    소프트웨어학과 20학번 이학진
+
+    Python Version: 3.9.5
+"""
+
 import sys
 import pymysql
 from PyQt5.QtWidgets import *
