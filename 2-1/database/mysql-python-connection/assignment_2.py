@@ -102,6 +102,7 @@ class App(QWidget):
 
         countryData = cursor.fetchall()
         if len(countryData) == 0:
+            self.countryNameText.setText("")
             self.continentText.setText("")
             self.populationText.setText("")
             self.GNPText.setText("")
