@@ -3,8 +3,7 @@ using namespace std;
 
 bool isPrime(int);
 
-int main()
-{
+int main() {
     int num = 0;
 
     cout << "> ";
@@ -19,10 +18,8 @@ int main()
     return 0;
 }
 
-bool isPrime(int num)
-{
-    for (register int i = 2; i < num; i++)
-    {
+bool isPrime(int num) {
+    for (int i = 2; i < num; i++) {
         if (num % i == 0)
             return false;
     }
