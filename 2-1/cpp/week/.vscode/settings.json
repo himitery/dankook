@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.html": "html",
+        "iterator": "cpp",
+        "*.tcc": "cpp"
+    }
+}
