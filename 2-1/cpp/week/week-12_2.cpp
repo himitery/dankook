@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-template <typename T> class week12 {
+template <class T> class week12 {
   private:
     int size;
     T *arr;
