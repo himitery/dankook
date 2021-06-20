@@ -18,4 +18,8 @@
 
 6. 2021/05/24: [Chapter 5 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_5)
 
-4. 2021/05/31: [Chapter 6 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_6)
+7. 2021/05/31: [Chapter 6 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_6)
+
+8. 2021/06/21: [Chapter 7 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_7)
+
+9. 2021/06/21: [Chapter 8 문제 풀이](https://github.com/himitery/dankook/tree/master/bigdata_ai_study/chapter_8)
